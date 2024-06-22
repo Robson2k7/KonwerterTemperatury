@@ -34,8 +34,5 @@ Projekt udostępniony na licencji MIT.
 
 - Robert Polony
 
-## Podziękowania
-
-Dziękuję mojej żonie i córce.
 
 
