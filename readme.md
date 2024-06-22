@@ -32,7 +32,7 @@ Projekt udostępniony na licencji MIT.
 
 ## Autorzy
 
-- Robert Polony
+- Robson2k7
 
 
 
